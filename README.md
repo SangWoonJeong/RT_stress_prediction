@@ -10,7 +10,7 @@ This repository shares code for predicting the stress of patients undergoing rad
 The models used in our research are:
 - **DT (Decision Tree)**
 - **RF (Random Forest)**
-- **SVM (Suport Vector Machine)**
+- **SVM (Support Vector Machine)**
 - **LSTM (Long Short-Term Memory)**
 - **Transformer**
 - **ChatGPT Fine-tuning**
@@ -20,7 +20,7 @@ The models used in our research are:
 ## Repository Structure
 
 - **data/**: exmaple dataset
-- **src/**: model source, package 등
+- **src/**: model source, package
 - **results/**: Stores the results and performance metrics of the models.
 - **checkpoints/**: saved models.
 
